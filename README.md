@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ushareddyvuribindi
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c,python,html and css.
+- 🌱 I’m currently learning java,html,css,javascript,mysql,Mern.
 - 💞️ I’m looking to collaborate on coding based programs 
 - 📫 How to reach me https://github.com/ushareddyvuribindi.
 
